@@ -11,6 +11,9 @@ function App() {
         <p>
           Edit <code>src/App.tsx</code> and save to reload.
         </p>
+
+        <p>Editando rama SP8 </p>
+        <p>Agregando parrafo </p>
         <a
           className="App-link"
           href="https://reactjs.org"
