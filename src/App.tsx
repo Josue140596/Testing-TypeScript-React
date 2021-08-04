@@ -7,6 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <h1>Trabajando en la rama SP7</h1>
         <p>
           Edit <code>src/App.tsx</code> and save to reload.
         </p>
@@ -16,7 +17,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Hola esta es la rama SP7
         </a>
       </header>
     </div>
